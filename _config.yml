@@ -4,7 +4,7 @@ description: We believe delivering software products should be easy. So we do ou
 cover: assets/images/radhakrishna.jpg
 logo: assets/images/logo.png
 favicon: assets/images/favicon.png
-baseurl: "/hanuman/" # the subpath of your site, e.g. /blog/ or / for root
+baseurl: "/deliver-excellence/" # the subpath of your site, e.g. /blog/ or / for root
 url: "" # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
 
